@@ -13,3 +13,8 @@ git clone https://github.com/sersoong/go-shutdownmonitor.git
 cd go-shutdownmonitor
 go build
 ```
+
+## run
+```
+go-shutdownmonitor
+```
